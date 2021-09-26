@@ -5,7 +5,6 @@
   display: flex;
   margin: 20px;
   padding: 15px;
-  border-radius: 8px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -16,8 +15,8 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  -webkit-box-shadow: 0px 0px 4px #9D9D9D;
-          box-shadow: 0px 0px 4px #9D9D9D;
+  -webkit-box-shadow: 0px 0px 20px #c5c1c1;
+          box-shadow: 0px 0px 20px #c5c1c1;
 }
 
 .product-body {
